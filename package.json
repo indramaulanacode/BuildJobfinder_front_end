@@ -5,8 +5,10 @@
   "dependencies": {
     "cra-template": "1.2.0",
     "flowbite": "^2.5.2",
+    "flowbite-react": "^0.10.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.0.2",
     "react-scripts": "5.0.1"
   },
   "scripts": {
@@ -34,6 +36,8 @@
     ]
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
     "tailwindcss": "^3.4.16"
   }
 }
